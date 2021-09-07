@@ -11,7 +11,9 @@ DEEP DETERMINISTIC POLICY GRADIENT is  state of the art Artificial Intelligence 
 
   Dependencies:
   ```python
-  pip install pybullet
+     pip install pybullet
+     pip install gym
+     pip install torch
 
 
 
