@@ -15,6 +15,5 @@ DEEP DETERMINISTIC POLICY GRADIENT is  state of the art Artificial Intelligence 
      pip install gym
      pip install torch
 
-![mwende](/mwende/DDPG PROCESS.jpg)
-
+file:///C:/Users/User/Desktop/mwende/DDPG%20NN%20ARCHITECTURE.JPG
 
