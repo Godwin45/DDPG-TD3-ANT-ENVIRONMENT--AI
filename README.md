@@ -2,7 +2,7 @@
 
 DEEP DETERMINISTIC POLICY GRADIENT is  state of the art Artificial Intelligence algorithm published in 2018 by GOOGLE DEEP MIND
 
-##Its a combination of three techniques:
+## Its a combination of three techniques:
 * DEEP LEARNING
 * ACTOR CRITIC MODEL
 * TWIN DELAYED MODEL
@@ -10,7 +10,7 @@ DEEP DETERMINISTIC POLICY GRADIENT is  state of the art Artificial Intelligence 
 [DEEP EXPLANATION HERE](https://towardsdatascience.com/td3-learning-to-run-with-ai-40dfc512f93)
 
   Dependencies:
-  '''python
+  ```python
   pip install pybullet
 
 
